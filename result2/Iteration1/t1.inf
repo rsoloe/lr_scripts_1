@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=application/octet-stream
+StepName=Custom Request: big file
+Total=1
+FileName1=t1.csar
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1727954505444
+RawStepName=big file
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1727954384304
+URL1=file:

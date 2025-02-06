@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=image/jpeg
+StepName=Custom Request: big file
+Total=1
+FileName1=t1.jpg
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1736514626910
+RawStepName=big file
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1736514626572
+URL1=file:

@@ -1,0 +1,24 @@
+Virtual User Script started at: 1/10/2025 8:09:55 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2024.3.0 for Windows 10; build 528 (Jul 14 2024 16:38:13)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\RSoloe\Documents\lr-script\big_file\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 4  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "download" started.
+Action.c(7): web_custom_request("big file") started  	[MsgId: MMSG-26355]
+Action.c(7): Error -26626: HTTP Status-Code=404 (Not Found) for "http://soloe-large-website.s3-website-us-east-1.amazonaws.com/soloe-anna.jpgn"  	[MsgId: MERR-26626]
+Action.c(7): web_custom_request("big file") highest severity level was "ERROR", 350 body bytes, 292 header bytes  	[MsgId: MMSG-26388]
+Action.c(7): Notify: Transaction "download" ended with a "Fail" status (Duration: 1.0300 Wasted Time: 0.0888).
+Action.c(7): Notify: Transaction "download" has 1 error message(s).
+Action.c(7): Notify: The 1st error message associated with transaction "download" is "Error -26626: HTTP Status-Code=404 (Not Found) for "http://soloe-large-website.s3-website-us-east-1.amazonaws.com/soloe-anna.jpgn""
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+x-amz-id-2: jME458dUIg+req10Zx+6lfO6GB8rIscq70XlaklAUEJxBGmzZeFfHQcQRKo6EXOQrvHfZHLMCkU=
+x-amz-request-id: YKYS5FW2JXKB87GC
+Date: Fri, 10 Jan 2025 13:10:27 GMT
+Last-Modified: Thu, 03 Oct 2024 13:18:44 GMT
+ETag: "7d1213cee24be9d533d51ef943b009fb"
+Content-Type: image/jpeg
+Content-Length: 102898
+Connection: keep-alive
+Server: AmazonS3
+

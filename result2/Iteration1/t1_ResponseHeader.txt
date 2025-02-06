@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+x-amz-id-2: NQ42BGJudvZNr20I2lJC5oNBeAm82Ch7EwHkOPZ62eS9HD4MFmGjP02d57TURg+WI7MscGlS14Q=
+x-amz-request-id: XYNVT71HGH13SFN4
+Date: Thu, 03 Oct 2024 11:19:45 GMT
+Last-Modified: Thu, 08 Aug 2024 19:13:32 GMT
+ETag: "561025e6f9890c75a3e0c1fc3905a1c6-63"
+Content-Type: application/octet-stream
+Connection: keep-alive
+Server: AmazonS3
+Content-Length: 1073741824
+

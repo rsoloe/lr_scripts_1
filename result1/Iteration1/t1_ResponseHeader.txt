@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+x-amz-id-2: TLu2pIysSuv6bWUCXJENK7By2p7NxQTbywKA6lCLZVzOHBSbqQM3DJ06exaR/cvN9pP1/ESiOtY=
+x-amz-request-id: QV0NMGTFD42K6J2C
+Date: Thu, 08 Aug 2024 20:54:33 GMT
+Last-Modified: Thu, 08 Aug 2024 19:13:32 GMT
+ETag: "561025e6f9890c75a3e0c1fc3905a1c6-63"
+Content-Type: application/octet-stream
+Connection: keep-alive
+Server: AmazonS3
+Content-Length: 1073741824
+

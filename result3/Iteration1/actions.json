@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: big file",
+                "infFile": "t1.inf",
+                "time": 1736178196334
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "download",
+                "rawStartTime": 1736178075497,
+                "rawEndTime": 1736178196336,
+                "thinkTime": 0.0,
+                "wastedTime": 119.85805559158325
+            }
+        ]
+    }
+]

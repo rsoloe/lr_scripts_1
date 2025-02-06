@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+x-amz-id-2: dvLZaJuv6Da+AnZXNevmcAZeEi1Wcv9wJEV8GAtmnQI5BlnLM9JXswj75SKyp7GjOP8eu53alos=
+x-amz-request-id: EBAXC7851Y7GSZEN
+Date: Mon, 06 Jan 2025 15:41:16 GMT
+Last-Modified: Thu, 08 Aug 2024 19:13:32 GMT
+ETag: "561025e6f9890c75a3e0c1fc3905a1c6-63"
+Content-Type: application/octet-stream
+Content-Length: 1073741824
+Connection: keep-alive
+Server: AmazonS3
+

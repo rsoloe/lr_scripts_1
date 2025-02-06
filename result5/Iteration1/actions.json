@@ -1,0 +1,15 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "download",
+                "rawStartTime": 1736514626556,
+                "rawEndTime": 1736514627630,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0733187198638916
+            }
+        ]
+    }
+]
